@@ -49,6 +49,10 @@ section {
   color: #F26440;
 }
 
+.hero {
+  background: rgba(242, 100, 64, 0.03);
+}
+
 .hero h1 {
   font-size: 64px;
   font-weight: 700;
@@ -59,5 +63,6 @@ section {
   font-size: 18px;
   font-weight: 500;
   color: #474747;
+  margin: 42px 0;
 }
 /*# sourceMappingURL=style.css.map */

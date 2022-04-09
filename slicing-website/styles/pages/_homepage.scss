@@ -1,4 +1,7 @@
 .hero {
+
+    background: rgba(242, 100, 64, 0.03);
+
     h1 {
         font-size: $heading-size-1;
         font-weight: 700;
@@ -9,6 +12,7 @@
         font-size: $body-size-1;
         font-weight: 500;
         color: $amir-color-grey;
+        margin: 42px 0;
     }
 
 }
