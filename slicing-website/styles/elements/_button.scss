@@ -1,0 +1,10 @@
+.btn-orange {
+    background-color: $amir-color-orange;
+    color: $amir-color-white;
+
+    &:hover {
+        background-color: $amir-color-white;
+        color: $amir-color-orange;
+    }
+
+}

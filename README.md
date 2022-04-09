@@ -12,4 +12,23 @@ Output Kursus Onlenkan Belajar Website Pemula
 ## Kick Start BootStrap
 - Buka website https://getbootstrap.com/
 - getStarted -> Introduction -> Copy Started Code
-- Download Source File -> Extract -> Copy Folder dist to ventor untuk setup Offline
+- Download Source File -> Extract -> Copy Folder dist to vendors untuk setup Offline
+
+## Structure Styles
+### Folder
+- Components
+- Elements
+- Pages
+
+### File
+- _font.scss
+- _global.scss
+- _variable.scss
+- _font.scss
+
+### SCSS
+- SCSS bisa menggunakan css dengan variable
+- SCSS (Jangan lupa menggunakan extension VsCode Live Sass Compiler)
+
+### Body Row
+- Total Maksimal Row 12

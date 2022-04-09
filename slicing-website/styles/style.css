@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Jost',sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+section {
+  padding: 100px 0;
+}
+
+.navbar .navbar-brand {
+  font-size: 24px;
+  font-weight: 600;
+  color: #F26440;
+}
+
+.navbar .navbar-brand span {
+  color: #1D1D1D;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+  color: #1D1D1D;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.navbar .navbar-nav .nav-item .nav-link.active {
+  color: #F26440;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover {
+  color: #F26440;
+}
+
+.btn-orange {
+  background-color: #F26440;
+  color: #FFFFFF;
+}
+
+.btn-orange:hover {
+  background-color: #FFFFFF;
+  color: #F26440;
+}
+
+.hero h1 {
+  font-size: 64px;
+  font-weight: 700;
+  color: #1D1D1D;
+}
+
+.hero p {
+  font-size: 18px;
+  font-weight: 500;
+  color: #474747;
+}
+/*# sourceMappingURL=style.css.map */

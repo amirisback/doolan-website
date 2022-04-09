@@ -1,0 +1,32 @@
+.navbar {
+    .navbar-brand {
+        font-size: $heading-size-4;
+        font-weight: 600;
+        color: $amir-color-orange;
+
+        span {
+            color: $amir-color-black;
+        }
+
+    }
+
+    .navbar-nav {
+        .nav-item {
+            .nav-link {
+                color: $amir-color-black;
+                font-size: $body-size-2;
+                font-weight: 500;
+
+                &.active {
+                    color: $amir-color-orange;
+                }
+
+                &:hover {
+                    color: $amir-color-orange;
+                }
+
+            }
+        }
+    }
+
+}
