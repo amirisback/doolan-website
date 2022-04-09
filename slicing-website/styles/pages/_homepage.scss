@@ -16,3 +16,53 @@
     }
 
 }
+
+.service {
+    .card-service {
+        .card-body {
+            img {
+                margin-top: 100px;
+                margin-bottom: 30px;
+            }
+
+            h3 {
+                font-weight: 600;
+                color: $amir-color-black;
+            }
+
+            p {
+                font-weight: 400;
+                color: $amir-color-grey;
+            }
+        }
+
+    }
+
+    .card-destination {
+        border-radius: 10px;
+        height: 350px;
+        background-size: cover;
+        margin-top: 20px;
+
+        .card-body {
+            border-radius: 10px;
+            background: linear-gradient(180deg, rgba(0, 0, 0, 0) 48.96%, #000000 100%);
+            position: relative;
+
+            .content {
+                position: absolute;
+                bottom: 20px;
+
+                h3 {
+                    color: $amir-color-white;
+                }
+
+                p {
+                    color: $amir-color-soft-grey;
+                }
+            }
+        }
+
+    }
+
+}

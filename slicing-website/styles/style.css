@@ -15,6 +15,11 @@ section {
   padding: 100px 0;
 }
 
+section .section-title {
+  font-size: 48px;
+  font-weight: 700;
+}
+
 .navbar .navbar-brand {
   font-size: 24px;
   font-weight: 600;
@@ -64,5 +69,47 @@ section {
   font-weight: 500;
   color: #474747;
   margin: 42px 0;
+}
+
+.service .card-service .card-body img {
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.service .card-service .card-body h3 {
+  font-weight: 600;
+  color: #1D1D1D;
+}
+
+.service .card-service .card-body p {
+  font-weight: 400;
+  color: #474747;
+}
+
+.service .card-destination {
+  border-radius: 10px;
+  height: 350px;
+  background-size: cover;
+  margin-top: 20px;
+}
+
+.service .card-destination .card-body {
+  border-radius: 10px;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(48.96%, rgba(0, 0, 0, 0)), to(#000000));
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 48.96%, #000000 100%);
+  position: relative;
+}
+
+.service .card-destination .card-body .content {
+  position: absolute;
+  bottom: 20px;
+}
+
+.service .card-destination .card-body .content h3 {
+  color: #FFFFFF;
+}
+
+.service .card-destination .card-body .content p {
+  color: #E5E5E5;
 }
 /*# sourceMappingURL=style.css.map */
