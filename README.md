@@ -3,11 +3,11 @@ Output Kursus Onlenkan Belajar Website Pemula
 
 ## ScreenShoot
 - SS 1
-![](docs/image/desktop-ss-1.png?raw=true)
+![](https://raw.githubusercontent.com/amirisback/doolan-website/main/docs/image/desktop-ss-1.png?raw=true)
 - SS 2
-![](docs/image/desktop-ss-2.png?raw=true)
+![](https://raw.githubusercontent.com/amirisback/doolan-website/main/docs/image/desktop-ss-2.png?raw=true)
 - SS 3
-![](docs/image/desktop-ss-3.png?raw=true)
+![](https://raw.githubusercontent.com/amirisback/doolan-website/main/docs/image/desktop-ss-3.png?raw=true)
 
 
 ## Kerangka Folder Awal
